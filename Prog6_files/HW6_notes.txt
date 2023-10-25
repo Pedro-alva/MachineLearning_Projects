@@ -1,0 +1,2 @@
+HW6 notes: 
+ - When doing .value counts() we can note that 0 domanites the data set with 1 only having 500 inputs compared to 8000 of the 0
